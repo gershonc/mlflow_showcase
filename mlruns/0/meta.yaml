@@ -1,0 +1,4 @@
+artifact_location: file:///Users/gershonc/workspace/gc/mlflow_showcase/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Default

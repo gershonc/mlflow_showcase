@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gershonc/workspace/gc/mlflow_showcase/mlruns/0/1a7cfa1f248242e99e528017d3d20719/artifacts
+end_time: 1594209954417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1a7cfa1f248242e99e528017d3d20719
+run_uuid: 1a7cfa1f248242e99e528017d3d20719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1594209954332
+status: 3
+tags: []
+user_id: gershonc
