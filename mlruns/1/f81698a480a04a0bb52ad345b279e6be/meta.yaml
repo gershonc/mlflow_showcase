@@ -2,7 +2,7 @@ artifact_uri: file:///Users/gershonc/workspace/gc/mlflow_showcase/mlruns/1/f8169
 end_time: 1594239351866
 entry_point_name: ''
 experiment_id: '1'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: f81698a480a04a0bb52ad345b279e6be
 run_uuid: f81698a480a04a0bb52ad345b279e6be
